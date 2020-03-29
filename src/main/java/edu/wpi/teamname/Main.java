@@ -8,5 +8,7 @@ public class Main {
     System.out.println("Gregory Conrad");
     System.out.println("Collin Broderick");
     System.out.println("Benny Klaiman");
+    System.out.println("Michael Lai");
+    System.out.println("Emily Austin");
   }
 }
