@@ -14,9 +14,7 @@ public class Main {
     System.out.println("Mark Hogan");
     System.out.println("Ryan Stebe");
     System.out.println("Jesus Barron");
-  }
 
-  public void printSomething() {
-    System.out.println("Sample Text");
+    System.out.println("Benny's extra line");
   }
 }
