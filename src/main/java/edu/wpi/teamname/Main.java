@@ -18,7 +18,6 @@ public class Main {
 
     System.out.println("Gregory Conrad Feature");
 
-    System.out.println("Hi from Victoria");
-
+    System.out.println("Jimmy Casella Feature");
   }
 }
