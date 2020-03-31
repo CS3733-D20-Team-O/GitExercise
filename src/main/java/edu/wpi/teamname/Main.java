@@ -24,7 +24,11 @@ public class Main {
 
     System.out.println("Jimmy Casella Feature");
     System.out.println("Emily made a branch");
+
     System.out.println("Michael Lai Feature");
+
+    System.out.println("Victoria made a branch");
+
   }
 
   public void markFeatureBranch(){
